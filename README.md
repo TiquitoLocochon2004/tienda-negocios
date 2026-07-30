@@ -25,7 +25,9 @@ Para ejecutar este proyecto de manera local, sigue los pasos a continuación:
 
 ### 🛸 3. Autor del Trabajo
 
-**Nombre y Apellido**
+- **Nombre y Apellido**
 - Agustina Martinez Godoy
-**Email**
-- martinezgodoyagustin@gmail.com
+* **Email**
+* martinezgodoyagustin@gmail.com
+
+## ¡Disfrute del código!
