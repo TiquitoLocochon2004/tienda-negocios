@@ -12,7 +12,7 @@
     <title>Tienda de Negocios - Catálogo</title>
     <style>
         body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 40px; background-color: #f8f9fa; color: #333; }
-        h1, h2 { color: #2c3e50; }
+        h1, h2 { color: #243342; }
         table { width: 100%; border-collapse: collapse; background: white; margin-top: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.05); }
         th, td { padding: 14px; border: 1px solid #e9ecef; text-align: left; }
         th { background-color: #343a40; color: white; }
