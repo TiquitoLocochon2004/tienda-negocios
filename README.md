@@ -1,10 +1,15 @@
-# Tienda de Negocios - Entrega 1 (PHP Puro & MVC Manual)
+# Tienda de Negocios - Entrega 1
+## Fundamentos de PHP y diseño de la aplicación
 
 Proyecto correspondiente al módulo de desarrollo en PHP puro, aplicando Programación Orientada a Objetos (POO) y una arquitectura Modelo-Vista-Controlador (MVC) manual, sin utilizar frameworks.
 
+
+### 🎯 1. Objetivo del Trabajo
+
+Sentar las bases conceptuales del proyecto: dominar la sintaxis y los fundamentos de PHP, aplicar Programación Orientada a Objetos y diseñar la arquitectura MVC que va a sostener el resto de la Tienda de Negocios, sin depender todavía de un framework.
 ---
 
-## 🛠️ 1. Instrucciones de Instalación del Entorno
+### 🚀 2. Instrucciones de Instalación para Ejecutar el Trabajo
 Para ejecutar este proyecto de manera local, sigue los pasos a continuación:
 
 1. **Servidor Local y PHP:**
@@ -18,13 +23,9 @@ Para ejecutar este proyecto de manera local, sigue los pasos a continuación:
 
 ---
 
-## 🏗️ Explicación del Diseño MVC Elegido
-La aplicación implementa una separación estricta de responsabilidades mediante una arquitectura MVC manual:
+### 🛸 3. Autor del Trabajo
 
-- **`models/` (Modelo):** Contiene las clases de dominio (`Producto`, `Categoria`, `Usuario`, `Carrito`). Gestiona la lógica de datos y las operaciones internas (como cálculos de subtotales mediante bucles y condicionales).
-- **`controllers/` (Controlador):** Actúa como intermediario. Recibe la petición inicial, solicita los datos al Modelo y se los entrega a la Vista para su renderizado.
-- **`views/` (Vista):** Contiene las interfaces visuales estructuradas con HTML5 y PHP puro para mostrar la información al usuario en el navegador.
-- **`index.php` (Enrutador Frontal):** Punto de entrada único que centraliza y redirige todas las peticiones hacia el controlador correspondiente.
-
-### Flujo de Ejecución:
-`Navegador del Cliente` ➡️ `index.php` ➡️ `Controlador` ➡️ `Modelo` ➡️ `Controlador` ➡️ `Vista HTML`
+**Nombre y Apellido**
+- Agustina Martinez Godoy
+**Email**
+- martinezgodoyagustin@gmail.com
