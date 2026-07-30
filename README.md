@@ -3,10 +3,12 @@
 
 Proyecto correspondiente al módulo de desarrollo en PHP puro, aplicando Programación Orientada a Objetos (POO) y una arquitectura Modelo-Vista-Controlador (MVC) manual, sin utilizar frameworks.
 
+---
 
 ### 🎯 1. Objetivo del Trabajo
 
 Sentar las bases conceptuales del proyecto: dominar la sintaxis y los fundamentos de PHP, aplicar Programación Orientada a Objetos y diseñar la arquitectura MVC que va a sostener el resto de la Tienda de Negocios, sin depender todavía de un framework.
+
 ---
 
 ### 🚀 2. Instrucciones de Instalación para Ejecutar el Trabajo
@@ -25,9 +27,7 @@ Para ejecutar este proyecto de manera local, sigue los pasos a continuación:
 
 ### 🛸 3. Autor del Trabajo
 
-- **Nombre y Apellido**
-- Agustina Martinez Godoy
-* **Email**
-* martinezgodoyagustin@gmail.com
+- **Nombre y Apellido**: Agustina Martinez Godoy
+- **Email**: martinezgodoyagustin@gmail.com 
 
-## ¡Disfrute del código!
+#### ¡Disfrute del código!
