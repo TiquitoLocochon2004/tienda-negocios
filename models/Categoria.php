@@ -11,3 +11,4 @@ class Categoria
         $this->nombre = $nombre;
     }
 }
+
