@@ -21,7 +21,7 @@
 </head>
 <body>
     <h1>Tienda de Negocios 🛒</h1>
-    <p>Módulo 1: Arquitectura MVC manual en PHP Puro y Programación Orientada a Objetos.</p>
+    <p>Entrega 1: Fundamentos de PHP y diseño de la aplicación</p>
     
     <h2>Catálogo de Productos</h2>
     <table>
