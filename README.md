@@ -30,4 +30,4 @@ Para ejecutar este proyecto de manera local, sigue los pasos a continuación:
 - **Nombre y Apellido**: Agustina Martinez Godoy
 - **Email**: martinezgodoyagustin@gmail.com 
 
-¡Disfrute del código! > Agus (Tico)
+> ¡Disfrute del código! - Agus (Tico)
